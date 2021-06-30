@@ -5,7 +5,7 @@ The project is an implementation of [english auction protocol](http://www.fipa.o
 
 ## Setup
 - Clone repository
-- Using IntelliJ:
+- If you're using IntelliJ you are good to do, otherwise follow these steps:
   - Create a new run configuration using the template `application` setting `jason.infra.centralised.RunCentralisedMAS` as main class
   - Set arguments to `./src/main/resources/auction.mas2j`
 
