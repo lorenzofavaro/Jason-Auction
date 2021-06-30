@@ -1,0 +1,11 @@
+MAS auction {
+
+    infrastructure: Centralised
+
+    agents: ag1;
+            ag2;
+            ag3;
+            auctioneer agentArchClass AuctioneerGUI;
+
+    aslSourcePath: "src/main/resources/";
+}
